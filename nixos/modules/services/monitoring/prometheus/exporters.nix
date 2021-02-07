@@ -46,6 +46,7 @@ let
     "surfboard"
     "tor"
     "unifi"
+    "v2ray"
     "varnish"
     "wireguard"
   ] (name:
