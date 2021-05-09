@@ -12,7 +12,7 @@ in
       type = types.str;
       default = "127.0.0.1:54321";
       description = ''
-        V2Ray control endpoint
+        v2ray grpc api endpoint
       '';
     };
 
