@@ -62,11 +62,8 @@ let
     "tor"
     "unbound"
     "unifi"
-<<<<<<< HEAD
     "unifi-poller"
-=======
     "v2ray"
->>>>>>> ca1be39678f... add v2ray exporter
     "varnish"
     "wireguard"
     "flow"
